@@ -19,4 +19,6 @@ Any courses have an id, name and price. The id is a number which corespond to th
      <li>"delete": will delete the course with the id which will be send as parameter. </li>
   </ul>
 </p>
-<p></p>
+<p>Further i will add some images which will present the functionality of the application:</p>
+<img src="Images/img1.PNG" width=600px>
+<img src="Images/img2.PNG" width=600px>
