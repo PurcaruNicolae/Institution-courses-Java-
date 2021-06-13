@@ -10,4 +10,13 @@ Any courses have an id, name and price. The id is a number which corespond to th
      <li>delete course: delete a course by id which is indicated as a parameter.</li>
   </ul>
 </p>
+<p>The application recive the following comands from the console:
+  <ul>
+     <li>"exit": which close the application;</li>
+     <li>"add_course": which add a course in the institution offer;</li>
+     <li>"display": which display all the available courses;</li>
+     <li>"display_computer_courses": wich display all the computer courses;</li>
+     <li>"delete": will delete the course with the id which will be send as parameter. </li>
+  </ul>
+</p>
 <p></p>
